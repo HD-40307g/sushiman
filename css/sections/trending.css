@@ -17,6 +17,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .trending__discover p {
@@ -92,7 +93,7 @@
     background-image: url(../../assets/japanese_sushi.png);
 }
 
-.trending-sushi .trending__image {
+.trending-drinks .trending__image {
     background-image: url(../../assets/japanese_drinks.png);
 }
 
